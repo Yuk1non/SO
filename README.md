@@ -1,0 +1,1 @@
+Hello, this is a site about the SCHEDULING ALGORITHMS and other things about SO. The site is structured in a main called home that explains some things in general, and than there are the main pages of every algorithm.
